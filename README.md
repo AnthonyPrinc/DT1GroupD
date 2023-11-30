@@ -1,6 +1,6 @@
 # DT1GroupD
 
-##Challenge 1 Code
+#Challenge 1 Code
 Welcome to the repository for Challenge 1! In this folder, you'll find the Jupyter Notebook containing the code for the challenge.
 
 ##File Information
