@@ -1,0 +1,494 @@
+{
+  "bucket": [
+    {
+      "startTimeMillis": "1695566359000",
+      "endTimeMillis": "1695652759000",
+      "dataset": [
+        {
+          "dataSourceId": "derived:com.google.step_count.delta:com.google.android.gms:aggregated",
+          "point": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "startTimeMillis": "1695652759000",
+      "endTimeMillis": "1695739159000",
+      "dataset": [
+        {
+          "dataSourceId": "derived:com.google.step_count.delta:com.google.android.gms:aggregated",
+          "point": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "startTimeMillis": "1695739159000",
+      "endTimeMillis": "1695825559000",
+      "dataset": [
+        {
+          "dataSourceId": "derived:com.google.step_count.delta:com.google.android.gms:aggregated",
+          "point": [
+            {
+              "startTimeNanos": "1695809317128869376",
+              "originDataSourceId": "derived:com.google.step_count.delta:com.google.ios.fit:appleinc.:iphone:794a297d:top_level",
+              "endTimeNanos": "1695823682135910400",
+              "value": [
+                {
+                  "mapVal": [
+                    
+                  ],
+                  "intVal": 2056
+                }
+              ],
+              "dataTypeName": "com.google.step_count.delta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "startTimeMillis": "1695825559000",
+      "endTimeMillis": "1695911959000",
+      "dataset": [
+        {
+          "dataSourceId": "derived:com.google.step_count.delta:com.google.android.gms:aggregated",
+          "point": [
+            {
+              "startTimeNanos": "1695826063034510336",
+              "originDataSourceId": "derived:com.google.step_count.delta:com.google.ios.fit:appleinc.:iphone:794a297d:top_level",
+              "endTimeNanos": "1695911822096060672",
+              "value": [
+                {
+                  "mapVal": [
+                    
+                  ],
+                  "intVal": 11450
+                }
+              ],
+              "dataTypeName": "com.google.step_count.delta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "startTimeMillis": "1695911959000",
+      "endTimeMillis": "1695998359000",
+      "dataset": [
+        {
+          "dataSourceId": "derived:com.google.step_count.delta:com.google.android.gms:aggregated",
+          "point": [
+            {
+              "startTimeNanos": "1695912040173259776",
+              "originDataSourceId": "derived:com.google.step_count.delta:com.google.ios.fit:appleinc.:iphone:794a297d:top_level",
+              "endTimeNanos": "1695996039616607232",
+              "value": [
+                {
+                  "mapVal": [
+                    
+                  ],
+                  "intVal": 5587
+                }
+              ],
+              "dataTypeName": "com.google.step_count.delta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "startTimeMillis": "1695998359000",
+      "endTimeMillis": "1696084759000",
+      "dataset": [
+        {
+          "dataSourceId": "derived:com.google.step_count.delta:com.google.android.gms:aggregated",
+          "point": [
+            {
+              "startTimeNanos": "1695998370523987712",
+              "originDataSourceId": "derived:com.google.step_count.delta:com.google.ios.fit:appleinc.:iphone:794a297d:top_level",
+              "endTimeNanos": "1696077351069037056",
+              "value": [
+                {
+                  "mapVal": [
+                    
+                  ],
+                  "intVal": 3116
+                }
+              ],
+              "dataTypeName": "com.google.step_count.delta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "startTimeMillis": "1696084759000",
+      "endTimeMillis": "1696171159000",
+      "dataset": [
+        {
+          "dataSourceId": "derived:com.google.step_count.delta:com.google.android.gms:aggregated",
+          "point": [
+            {
+              "startTimeNanos": "1696088547611924736",
+              "originDataSourceId": "derived:com.google.step_count.delta:com.google.ios.fit:appleinc.:iphone:794a297d:top_level",
+              "endTimeNanos": "1696171133080614144",
+              "value": [
+                {
+                  "mapVal": [
+                    
+                  ],
+                  "intVal": 8436
+                }
+              ],
+              "dataTypeName": "com.google.step_count.delta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "startTimeMillis": "1696171159000",
+      "endTimeMillis": "1696257559000",
+      "dataset": [
+        {
+          "dataSourceId": "derived:com.google.step_count.delta:com.google.android.gms:aggregated",
+          "point": [
+            {
+              "startTimeNanos": "1696171646309158656",
+              "originDataSourceId": "derived:com.google.step_count.delta:com.google.ios.fit:appleinc.:iphone:794a297d:top_level",
+              "endTimeNanos": "1696256838769661440",
+              "value": [
+                {
+                  "mapVal": [
+                    
+                  ],
+                  "intVal": 19838
+                }
+              ],
+              "dataTypeName": "com.google.step_count.delta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "startTimeMillis": "1696257559000",
+      "endTimeMillis": "1696343959000",
+      "dataset": [
+        {
+          "dataSourceId": "derived:com.google.step_count.delta:com.google.android.gms:aggregated",
+          "point": [
+            {
+              "startTimeNanos": "1696258109697992448",
+              "originDataSourceId": "derived:com.google.step_count.delta:com.google.ios.fit:appleinc.:iphone:794a297d:top_level",
+              "endTimeNanos": "1696341878732281600",
+              "value": [
+                {
+                  "mapVal": [
+                    
+                  ],
+                  "intVal": 6826
+                }
+              ],
+              "dataTypeName": "com.google.step_count.delta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "startTimeMillis": "1696343959000",
+      "endTimeMillis": "1696430359000",
+      "dataset": [
+        {
+          "dataSourceId": "derived:com.google.step_count.delta:com.google.android.gms:aggregated",
+          "point": [
+            {
+              "startTimeNanos": "1696346724985752064",
+              "originDataSourceId": "derived:com.google.step_count.delta:com.google.ios.fit:appleinc.:iphone:794a297d:top_level",
+              "endTimeNanos": "1696429396021492480",
+              "value": [
+                {
+                  "mapVal": [
+                    
+                  ],
+                  "intVal": 8527
+                }
+              ],
+              "dataTypeName": "com.google.step_count.delta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "startTimeMillis": "1696430359000",
+      "endTimeMillis": "1696516759000",
+      "dataset": [
+        {
+          "dataSourceId": "derived:com.google.step_count.delta:com.google.android.gms:aggregated",
+          "point": [
+            {
+              "startTimeNanos": "1696430662675563264",
+              "originDataSourceId": "derived:com.google.step_count.delta:com.google.ios.fit:appleinc.:iphone:794a297d:top_level",
+              "endTimeNanos": "1696516225052796416",
+              "value": [
+                {
+                  "mapVal": [
+                    
+                  ],
+                  "intVal": 5916
+                }
+              ],
+              "dataTypeName": "com.google.step_count.delta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "startTimeMillis": "1696516759000",
+      "endTimeMillis": "1696603159000",
+      "dataset": [
+        {
+          "dataSourceId": "derived:com.google.step_count.delta:com.google.android.gms:aggregated",
+          "point": [
+            {
+              "startTimeNanos": "1696516795875446528",
+              "originDataSourceId": "derived:com.google.step_count.delta:com.google.ios.fit:appleinc.:iphone:794a297d:top_level",
+              "endTimeNanos": "1696517806867954176",
+              "value": [
+                {
+                  "mapVal": [
+                    
+                  ],
+                  "intVal": 799
+                }
+              ],
+              "dataTypeName": "com.google.step_count.delta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "startTimeMillis": "1696603159000",
+      "endTimeMillis": "1696689559000",
+      "dataset": [
+        {
+          "dataSourceId": "derived:com.google.step_count.delta:com.google.android.gms:aggregated",
+          "point": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "startTimeMillis": "1696689559000",
+      "endTimeMillis": "1696775959000",
+      "dataset": [
+        {
+          "dataSourceId": "derived:com.google.step_count.delta:com.google.android.gms:aggregated",
+          "point": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "startTimeMillis": "1696775959000",
+      "endTimeMillis": "1696862359000",
+      "dataset": [
+        {
+          "dataSourceId": "derived:com.google.step_count.delta:com.google.android.gms:aggregated",
+          "point": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "startTimeMillis": "1696862359000",
+      "endTimeMillis": "1696948759000",
+      "dataset": [
+        {
+          "dataSourceId": "derived:com.google.step_count.delta:com.google.android.gms:aggregated",
+          "point": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "startTimeMillis": "1696948759000",
+      "endTimeMillis": "1697035159000",
+      "dataset": [
+        {
+          "dataSourceId": "derived:com.google.step_count.delta:com.google.android.gms:aggregated",
+          "point": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "startTimeMillis": "1697035159000",
+      "endTimeMillis": "1697121559000",
+      "dataset": [
+        {
+          "dataSourceId": "derived:com.google.step_count.delta:com.google.android.gms:aggregated",
+          "point": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "startTimeMillis": "1697121559000",
+      "endTimeMillis": "1697207959000",
+      "dataset": [
+        {
+          "dataSourceId": "derived:com.google.step_count.delta:com.google.android.gms:aggregated",
+          "point": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "startTimeMillis": "1697207959000",
+      "endTimeMillis": "1697294359000",
+      "dataset": [
+        {
+          "dataSourceId": "derived:com.google.step_count.delta:com.google.android.gms:aggregated",
+          "point": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "startTimeMillis": "1697294359000",
+      "endTimeMillis": "1697380759000",
+      "dataset": [
+        {
+          "dataSourceId": "derived:com.google.step_count.delta:com.google.android.gms:aggregated",
+          "point": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "startTimeMillis": "1697380759000",
+      "endTimeMillis": "1697467159000",
+      "dataset": [
+        {
+          "dataSourceId": "derived:com.google.step_count.delta:com.google.android.gms:aggregated",
+          "point": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "startTimeMillis": "1697467159000",
+      "endTimeMillis": "1697553559000",
+      "dataset": [
+        {
+          "dataSourceId": "derived:com.google.step_count.delta:com.google.android.gms:aggregated",
+          "point": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "startTimeMillis": "1697553559000",
+      "endTimeMillis": "1697639959000",
+      "dataset": [
+        {
+          "dataSourceId": "derived:com.google.step_count.delta:com.google.android.gms:aggregated",
+          "point": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "startTimeMillis": "1697639959000",
+      "endTimeMillis": "1697726359000",
+      "dataset": [
+        {
+          "dataSourceId": "derived:com.google.step_count.delta:com.google.android.gms:aggregated",
+          "point": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "startTimeMillis": "1697726359000",
+      "endTimeMillis": "1697812759000",
+      "dataset": [
+        {
+          "dataSourceId": "derived:com.google.step_count.delta:com.google.android.gms:aggregated",
+          "point": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "startTimeMillis": "1697812759000",
+      "endTimeMillis": "1697899159000",
+      "dataset": [
+        {
+          "dataSourceId": "derived:com.google.step_count.delta:com.google.android.gms:aggregated",
+          "point": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "startTimeMillis": "1697899159000",
+      "endTimeMillis": "1697985559000",
+      "dataset": [
+        {
+          "dataSourceId": "derived:com.google.step_count.delta:com.google.android.gms:aggregated",
+          "point": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "startTimeMillis": "1697985559000",
+      "endTimeMillis": "1698071959000",
+      "dataset": [
+        {
+          "dataSourceId": "derived:com.google.step_count.delta:com.google.android.gms:aggregated",
+          "point": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "startTimeMillis": "1698071959000",
+      "endTimeMillis": "1698158359000",
+      "dataset": [
+        {
+          "dataSourceId": "derived:com.google.step_count.delta:com.google.android.gms:aggregated",
+          "point": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

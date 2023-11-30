@@ -1,0 +1,40 @@
+styles=[{'selector':'th','props': [
+        ('vertical-align','center'),
+        ('text-align', 'center'), 
+        ('font-size', '12px'),]}, 
+        
+        {'selector': 'caption','props': [
+        ('color', 'yellow'),
+        ('font-size', '10px'), 
+        ('font-weight', 'bold'),
+        ('caption-side', 'bottom')]}, 
+       
+        {'selector': 'th:not(.index_name)', 'props': [
+        ('background-color', 'black'), 
+        ('color', 'yellow'),
+        ("border", "2px solid white")]}, 
+       
+        {'selector': 'th.col_heading.level0', 'props': [
+        ('font-size', '15px'), 
+        ('background-color', 'black')]},
+
+        {'selector': 'th.col_heading.level1', 'props': [
+        ('background-color', 'black')]},
+        
+        {'selector': 'td:hover', 'props': [
+        ('background-color', 'Black')]}, 
+       
+        {"selector": "th", "props": [
+        ("border", "2px white")]},
+       
+        {"selector" :"td", "props": [
+        ("border","2px White"),
+        ('background-color', 'Black'), 
+        ('color', 'Yellow'),
+        ('font-weight', 'bold'),
+        ("border", "2px solid white")]}]
+
+
+new_df = new_df.style.set_caption("Sleep data").set_table_styles(styles)
+
+new_df
