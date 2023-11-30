@@ -14,6 +14,7 @@ Location: DT1GroupD/
 To run the code successfully, make sure you have the following packages installed. You can install them using the package manager pip:
 
 '''bash
+
 pip install pandas numpy matplotlib seaborn scipy scikit-learn statsmodels
 
 ## Required Packages
