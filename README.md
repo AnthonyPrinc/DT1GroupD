@@ -8,7 +8,7 @@ File Information
 
 File Name: Challenge1Code.ipynb
 
-Location: Challenge 1/
+Location: DT1GroupD/
 
 ## Getting Started
 To run the code successfully, make sure you have the following packages installed. You can install them using the package manager pip:
